@@ -7,7 +7,7 @@
 			"revision" : 5
 		}
 ,
-		"rect" : [ 0.0, 44.0, 1613.0, 1110.0 ],
+		"rect" : [ 1.0, 372.0, 813.0, 569.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -34,8 +34,8 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 516.15155, 178.0, 60.0, 20.0 ],
-					"text" : "s 2button"
+					"patching_rect" : [ 516.15155, 178.0, 42.0, 20.0 ],
+					"text" : "s Two"
 				}
 
 			}
@@ -47,8 +47,8 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 485.969696, 198.0, 60.0, 20.0 ],
-					"text" : "s 1button"
+					"patching_rect" : [ 485.969696, 198.0, 43.0, 20.0 ],
+					"text" : "s One"
 				}
 
 			}
