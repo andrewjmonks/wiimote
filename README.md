@@ -1,38 +1,6 @@
 wiimote
 =======
 
-![screenshot](http://cl.ly/JI0m/Screen%20Shot%202012-09-08%20at%205.23.49%20AM.png)
+![screenshot](http://f.cl.ly/items/0X2J3x2F0c032T46230b/Screen%20Shot%202012-11-28%20at%207.37.47%20PM.png)
 
-easy-mapped wiimote for max/msp
-
-## Sends to:
-
-*	Pitch
-
-*	Roll
-
-*	Yaw
-
-*	Accel
-
-*	Up
-
-*	Down
-
-*	Left
-
-*	Right
-
-*	A
-
-*	B
-
-*	Minus
-
-*	Home
-
-*	Plus
-
-*	One
-
-*	Two
+wiimote patch for max/msp
